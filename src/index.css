@@ -168,6 +168,10 @@ h2{
   opacity: 1;
 }
 
+.hidden{
+  visibility: hidden;
+}
+
 /* Contato */
 .contact form {
   display: flex;

@@ -5,7 +5,7 @@ const About = () => {
     <section id="about" className="about">
       <h2>Sobre Mim</h2>
       <div className="about-content">
-        <img src="src\assets\minha-foto.png" alt="Minha Foto" className="about-img" />
+        <img src="https://drive.google.com/file/d/1mEUS0sFbEiquBVURhPxgK914oak4qsHY/view?usp=sharing" alt="Minha Foto" className="about-img" />
         <p>
           Olá! Meu nome é Patrik, e sou um desenvolvedor fullstack com experiência em tecnologias
           modernas como React, Node.js, MySQL e as tecnologias basicas HTML, CSS E JAVASCRIPT puro, também conheço a sintaxe
