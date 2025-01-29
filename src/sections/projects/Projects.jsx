@@ -16,7 +16,7 @@ const Projects = () => {
         <div className="project">
           <h3>Pixel Home</h3>
           <p>Estou fazendo ele para melhorar
-            todas as habilidades que tenho em fullstack, fiz a api de coleta de imagens enviadas
+            todas as habilidades que tenho em fullstack, fiz a API de coleta de imagens enviadas
             pelo usuário, armazenagem dessas imagens no servidor e exposição das mesmas
             na página de exibição.</p>
             <div className="link-container">
