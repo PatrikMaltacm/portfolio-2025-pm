@@ -19,7 +19,7 @@ const Projects = () => {
           </p>
 
             <div className="link-container">
-                <a href="https://pixellhome.space/home">Veja o projeto</a>
+                <a href="https://pixellhome.space/home" target="_blank">Veja o projeto</a>
             </div>
         </div>
         <div className="project">
@@ -34,7 +34,8 @@ const Projects = () => {
           </p>
 
             <div className="link-container">
-                <a href="https://bggoneapp.netlify.app/">Veja o projeto</a>
+                <a href="https://bggoneapp.netlify.app/" target="_blank">Veja o projeto</a>
+                <a href="https://github.com/PatrikMaltacm/BgGone" target="_blank">Projeto no GitHub</a>
             </div>
         </div>
         <div className="project">
@@ -49,7 +50,7 @@ const Projects = () => {
           </p>
 
             <div className="link-container">
-                <a href="https://github.com/PatrikMaltacm/BgGoneAPI/tree/main">Veja o projeto</a>
+                <a href="https://github.com/PatrikMaltacm/BgGoneAPI/tree/main" target="_blank">Projeto no GitHub</a>
             </div>
         </div>
         <div className="project">
@@ -66,7 +67,8 @@ const Projects = () => {
               Frontend: HTML, CSS
           </p>
             <div className="link-container">
-                <a href="https://github.com/PatrikMaltacm/BgGoneAPI/tree/main">Veja o projeto</a>
+                <a href="https://loginregister-page.netlify.app/" target="_blank">Veja o projeto</a>
+                <a href="https://github.com/PatrikMaltacm/db-consult-api" target="_blank">Projeto no GitHub</a>
             </div>
         </div>
       </div>
