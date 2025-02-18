@@ -71,6 +71,20 @@ const Projects = () => {
                 <a href="https://github.com/PatrikMaltacm/db-consult-api" target="_blank">Projeto no GitHub</a>
             </div>
         </div>
+        <div className="project">
+          <h3>Landing Page oficina de motos</h3>
+          <p>
+              Landing page simples na qual uso como modelo para apresentar aos meus clientes de freelancer<br/>
+
+          </p>
+          <p>
+              Tecnologias utilizadas: <br/>
+              Frontend: HTML, CSS, JAVASCRIPT
+          </p>
+            <div className="link-container">
+                <a href="https://paginamodelooficinapm.netlify.app/" target="_blank">Veja o projeto</a>
+            </div>
+        </div>
       </div>
     </section>
   );
